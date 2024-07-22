@@ -1,4 +1,4 @@
-| **Program**   | **edges** | **seeds** | **AVE ** |
+| **Program**   | **edges** | **seeds** | **AVE** |
 |---------------|-----------|-----------|----------|
 | **avconv**    | 5908721   | 7162      | 825.01   |
 | **bison**     | 770       | 5         | 154      |
@@ -30,3 +30,7 @@
 | **xmllint**    | 1072567 | 19923 | 53.84   |
 | **xmlwf**      | 373159  | 3143  | 118.73  |
 | **yara**       | 306580  | 1538  | 199.34  |
+
+
+
+**Ave: average number of edges across all test cases**

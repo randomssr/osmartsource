@@ -30,3 +30,6 @@
 | **xmllint**    | 90533669  | 75761  | 1194.99  |
 | **xmlwf**      | 7290780   | 36751  | 198.38   |
 | **yara**       | 8213853   | 30139  | 272.53   |
+
+
+**Ave: average number of edges across all test cases**
